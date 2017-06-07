@@ -1,3 +1,9 @@
+# 0.7.1.0
+
+## Features
+
+* Add support command + enter on mac os.
+
 # 0.7.0.0
 
 ## Refactor
